@@ -1,0 +1,22 @@
+li {
+  color: brown;
+}
+
+p {
+  color: brown;
+}
+
+span {
+  font-weight: bold;
+
+  background-color: #ffff00;
+}
+a {
+  color: red;
+}
+
+body {
+  background: url(./Tiger.jpg) no-repeat center;
+
+  background-size: cover;
+}
